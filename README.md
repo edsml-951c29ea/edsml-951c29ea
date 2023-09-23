@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Jorge Veiras a student at Imperial College London
+
+#I have two githubs accounts, now I am more active on this one. For old commits check (jveiras2001)[https://github.com/jveiras2001]
 
 <!--
 **edsml-951c29ea/edsml-951c29ea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
